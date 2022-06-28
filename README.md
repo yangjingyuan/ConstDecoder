@@ -1,3 +1,3 @@
 # ConstDecoder
 
-- The code will be released after internal review, be patient.
+Be patient, the code will be released after internal review. 
