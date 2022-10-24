@@ -1,0 +1,9 @@
+Third-party software licenses
+=============================
+ConstDecoder embeds third-party free and open source software packages under various
+licenses.
+
+=============================
+Notice for github.com/NetEase-GameAI/SARG:
+
+See ./third-party/LICENSE-SARG
